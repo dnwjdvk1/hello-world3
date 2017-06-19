@@ -6,14 +6,18 @@ public class Test {
 
  
  public void me1(){
-	System.out.println(); 
+	System.out.println("da"); 
  }
-
- int c;
+int c;
  int d;
+
  
  public void me3(){
-	 System.out.println();
+ 
  }
+
+
+ public void me2(){
+	 }
 
 }
