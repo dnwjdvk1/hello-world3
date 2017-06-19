@@ -8,7 +8,7 @@ public class Test {
  public void me1(){
 	System.out.println("da"); 
  }
-int c;
+ int c;
  int d;
 
  
