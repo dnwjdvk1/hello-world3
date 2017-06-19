@@ -5,6 +5,6 @@ public class Test {
  int b;
  
  public void me1(){
-	 
+	System.out.println(); 
  }
 }
