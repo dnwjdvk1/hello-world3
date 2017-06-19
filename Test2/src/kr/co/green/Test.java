@@ -8,9 +8,11 @@ public class Test {
  public void me1(){
 	System.out.println(); 
  }
-
- int c;
+int c;
  int d;
- 
+
+ public void me2(){
+	 
+ }
 
 }
