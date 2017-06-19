@@ -12,5 +12,8 @@ public class Test {
  int c;
  int d;
  
+ public void me3(){
+	 System.out.println();
+ }
 
 }
